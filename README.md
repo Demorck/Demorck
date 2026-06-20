@@ -71,9 +71,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demorck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demorck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=demorck&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
+  ![Demorck's Stats](https://github-readme-stats.vercel.app/api?username=Demorck&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+  
+  ![Demorck's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Demorck&theme=shades-of-purple&hide_border=true)
+  
+  ![Demorck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demorck&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+  
 </div>
 
 ###
