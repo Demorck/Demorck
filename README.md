@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">I have some big projects:<br>A randomizer for the game Clair Obscur: Expedition 33 <br>A web game called Isaaconnect. (A NYT connection with items from the game The Binding of Isaac)<br>A online save manager for the same game<br><br>and some college projects that i don't care of but i like to code them so, it's nice</p>
+<p align="left">I have some big projects:<br>
+  A randomizer for the game Clair Obscur: Expedition 33 <br>
+  A web game called Isaaconnect. (A NYT connection with items from the game The Binding of Isaac)<br>
+  A online save manager for the same game<br>
+  A python library to read, write and patch Wii ISO <br><br>
+and some college projects that i don't care of but i like to code them so, it's nice</p>
 
 ###
 
