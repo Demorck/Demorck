@@ -1,106 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Démorck
 
-###
+Final-year Software Engineering student (M2) in France. Formal methods, distributed systems, and a lot of reverse engineering on the side.
 
-<p align="left">My name is Demorck, i'm an 4 year IT Student in France.</p>
+I like understanding how things work underneath (at low level): disc formats, binary patching, allocation.
 
-###
+## What I'm working on
 
-<h2 align="left">About me</h2>
+**[wiithon](https://github.com/Demorck/wiithon)** - Python library to read, patch and rebuild Nintendo Wii disc images. On-the-fly decryption, Merkle tree reconstruction, seven reverse-engineered file formats, a PowerPC instruction encoder. Published on [PyPI] https://pypi.org/project/wiithon/) with a typed API, a CLI, tests, CI and [documentation](https://demorck.github.io/wiithon/).
 
-###
+**[Isaaconnect](https://github.com/Demorck/Isaaconnect)** - Daily puzzle game inspired by NYT Connections, built around *The Binding of Isaac*. Around 150,000 visitors a month at [isaaconnect.com](https://isaaconnect.com).
 
-<p align="left">I have some big projects:<br>
-  A randomizer for the game Clair Obscur: Expedition 33 <br>
-  A web game called Isaaconnect. (A NYT connection with items from the game The Binding of Isaac)<br>
-  A online save manager for the same game<br>
-  A python library to read, write and patch Wii ISO <br><br>
-and some college projects that i don't care of but i like to code them so, it's nice</p>
+**[Clair Obscur Randomizer](https://github.com/Demorck/ClairObscurArchipelagoRandomizer)** - Archipelago integration for *Clair Obscur: Expedition 33*, reverse engineered without documentation. Ships with an APWorld and a Poptracker pack.
 
-###
+**[isaac-save-manager](https://github.com/Demorck/isaac-save-manager)** - Save file editor for *The Binding of Isaac: Rebirth*.
 
-<h2 align="left">I like to code with</h2>
+## Tech
 
-###
+Rust, TypeScript, Python, Java, Lua, PHP / Symfony
+Git, GitHub Actions, Linux, SQL, webpack
 
-<h3 align="left">Frontend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
-</div>
-
-###
-
-<h3 align="left">Others</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-</div>
-
-###
-
-<div align="center">
-  
-  ![Demorck's Stats](https://github-readme-stats.vercel.app/api?username=Demorck&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-  
-  ![Demorck's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Demorck&theme=shades-of-purple&hide_border=true)
-  
-  ![Demorck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demorck&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
-  
-</div>
-
-###
-
-<h2 align="left">Social medias</h2>
-
-###
-
-<div align="left">
-  <a href="demorck" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/Demorck_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://bsky.app/profile/demorck.bsky.social" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
-  </a>
-</div>
-
-###
+I'm currently working on a hexadecimal editor in rust and a board game adapted in typescript.
