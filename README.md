@@ -2,7 +2,7 @@
 
 Final-year Software Engineering student (M2) in France. Formal methods, distributed systems, and a lot of reverse engineering on the side.
 
-I like understanding how things work underneath (at low level): disc formats, binary patching, allocation.
+I like understanding how things work underneath (at low level): disc formats, binary patching, allocation and some other stuff
 
 ## What I'm working on
 
