@@ -14,6 +14,8 @@ I like understanding how things work underneath (at low level): disc formats, bi
 
 **[isaac-save-manager](https://github.com/Demorck/isaac-save-manager)** - Save file editor for *The Binding of Isaac: Rebirth*.
 
+**[Luigi's Mansion Decompilation](https://github.com/SomeJakeGuy/lm-decomp/)** - Decompilation of the first Gamecube game: Luigi's Mansion with SomeJakeGuy
+
 ## Tech
 
 Rust, TypeScript, Python, Java, Lua, PHP / Symfony
